@@ -2,7 +2,7 @@
 
 I'm a systems architect and cybersecurity enthusiast.
 
-- 🔭 I work at Genasys Technologies, designing large insurance systems.
+- 🔭 I work at [Genasys Technologies](https://genasystech.co.uk/), designing large insurance systems.
 - 🌱 I’m currently learning cloud automation and binary exploitation.
 - 💬 Ask me about: Systems architecture, CTFs, [HackTheBox](https://hackthebox.eu/).
 - ⚡ Fun fact: I love the ocean, experiencing different cultures, learning new things and attending meetups.
